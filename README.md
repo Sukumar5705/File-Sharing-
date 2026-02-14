@@ -25,7 +25,5 @@ A simple and efficient Python-based local file sharing server that allows users 
 - pypng (PNG support for QR code)
 - webbrowser (auto open QR code)
 
----
 
-## 📂 Project Structure
 
